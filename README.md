@@ -61,7 +61,7 @@ This project is structured into **three data layers**:
 
 This project was built with guidance and inspiration from **Ansh Lamba’s YouTube tutorials**, which provided valuable insights into building modern data engineering solutions using Databricks and Delta Lake.
 
-> Credit: [Ansh Lamba on YouTube](https://www.youtube.com/@AnshLamba)
+> Credit: [Ansh Lamba on YouTube]([https://www.youtube.com/@AnshLamba](https://www.youtube.com/@AnshLambaJSR))
 
 ---
 
